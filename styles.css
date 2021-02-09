@@ -1,0 +1,38 @@
+html{
+	scroll-behavior: smooth;
+}
+body{
+	font-family: 'comic sans ms', sans-serif;
+	text-align: center;
+	margin: 10px 0px;
+	background: linear-gradient(45deg,lightsalmon, lightgreen);
+
+}
+table{
+	width: 100%;
+}
+h1{
+	font-family: 'Castellar' , sans-serif;
+	font-size: 42px;
+	text-shadow:0 0 10px black;
+}
+h2{
+	background: linear-gradient(45deg,black, darkred, black);
+	width: 50%;
+	color:white;
+	margin: auto;
+	padding:10px;
+	border-radius:60% 60% 0%;
+	border-bottom: 5px solid white;
+}
+img{
+	width: 270px;
+	height: 160px;
+	border-radius: 20px;
+	box-shadow: 0 0 10px black;
+}
+img.main{
+	width:500px;
+	height: 270px;
+}
+
